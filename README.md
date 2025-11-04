@@ -1,4 +1,4 @@
- Twitter Sentiment Analysis using NLP & Streamlit
+# TweetSentify - Twitter Sentiment Analysis using NLP & Streamlit
 
 A complete end-to-end project for performing sentiment analysis on tweets using a fine-tuned transformer model (BERT).
 Includes data ingestion from CSV, MongoDB storage, real-time analysis, and a Streamlit dashboard for visualization.
@@ -98,4 +98,5 @@ Include model fine-tuning option
 ```bash
 git clone https://github.com/<your-username>/twitter_sentiment_project.git
 cd twitter_sentiment_project
+
 
