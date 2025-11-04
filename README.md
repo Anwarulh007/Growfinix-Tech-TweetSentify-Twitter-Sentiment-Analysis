@@ -1,9 +1,9 @@
-# TWEETSENTIFY - Twitter Sentiment Analysis using NLP & Streamlit
+🐦 Twitter Sentiment Analysis using NLP & Streamlit
 
 A complete end-to-end project for performing sentiment analysis on tweets using a fine-tuned transformer model (BERT).
 Includes data ingestion from CSV, MongoDB storage, real-time analysis, and a Streamlit dashboard for visualization.
 
-# Features
+🚀 Features
 
 ✅ Load tweet data from CSV or Twitter API
 
@@ -13,15 +13,15 @@ Includes data ingestion from CSV, MongoDB storage, real-time analysis, and a Str
 
 ✅ Interactive Streamlit dashboard with:
 
-# Recent tweet table
+Recent tweet table
 
 Sentiment distribution (bar + pie chart)
 
 Text analysis input box
 
+✅ Optional email alerts for highly negative tweets (via SendGrid)
 
-
-# Tech Stack
+🧩 Tech Stack
 Component	Technology Used
 Language	Python
 Framework	Streamlit
@@ -70,14 +70,14 @@ streamlit run src/streamlit/dashboard.py
 Then visit:
 👉 http://localhost:8501
 
-# Output Preview
+📊 Output Preview
 
 ✅ Bar & Pie charts of sentiment distribution
 ✅ Table of recent tweets
 ✅ Real-time text analyzer
 ✅ Optional negative tweet alerts
 
-# Future Enhancements
+🧠 Future Enhancements
 
 Integrate live Twitter API streaming
 

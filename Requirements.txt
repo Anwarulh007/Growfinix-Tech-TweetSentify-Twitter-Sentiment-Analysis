@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+transformers
+tweepy
+pymongo
+python-dotenv
+sendgrid
+plotly
+pandas
+torch
+datasets
+scikit-learn
